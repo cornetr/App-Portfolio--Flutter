@@ -4,9 +4,7 @@
 
 Cette application est mon premier projet Flutter !
 
-# Aperçu du projet
-
-![](Capture.jpg)
+# Description
 
 Elle a pour but de stocker localement nos projets personnels ou professionnels :
  - date
@@ -23,6 +21,10 @@ De plus l'application se veut personnalisable en termes de couleurs :
  - Textes
 
 J'utilise **Sqflite**, mes connaissances en base de données et en SQL pour stocker les données enregistrées !
+
+# Aperçu du projet
+
+![](Capture.jpg)
 
 # Auteur
  - Romann Cornet
