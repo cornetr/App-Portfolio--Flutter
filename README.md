@@ -11,7 +11,9 @@ Elle a pour but de stocker localement nos projets personnels ou professionnels :
  - liens 
  - contributeurs 
 
-L'application se veut personnalisable en termes de couleurs :
+Utile pour partager nos créations avec nos amis, notre famille ou lors d'un entretien d'embauche !
+
+De plus l'application se veut personnalisable en termes de couleurs :
  - Thème global
  - Boxs de projets 
  - Textes
