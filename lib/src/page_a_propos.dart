@@ -24,7 +24,7 @@ class PageAPropos extends StatelessWidget {
                 ),
                 recognizer: TapGestureRecognizer()
                   ..onTap = () async {
-                    const url = "https://github.com/cornetr/Galerie-Projets-Flutter";
+                    const url = "https://github.com/cornetr/App-Portfolio--Flutter";
                     if (await canLaunch(url)) {
                       await launch(
                         url,
