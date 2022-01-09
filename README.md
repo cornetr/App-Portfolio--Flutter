@@ -1,16 +1,19 @@
-# portfolio
+# Projet en cours ⌛
 
-A new Flutter project.
+## Application Mobile Portfolio Flutter
 
-## Getting Started
+Cette application est mon premier projet Flutter !
 
-This project is a starting point for a Flutter application.
+Elle a pour but de stocker localement nos projets personnels ou professionnels :
+ - date
+ - images
+ - description 
+ - liens 
+ - contributeurs 
 
-A few resources to get you started if this is your first Flutter project:
+L'application se veut personnalisable en termes de couleurs :
+ - Thème global
+ - Boxs de projets 
+ - Textes
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+J'utilise **Sqflite**, mes connaissances en base de données et en SQL pour stocker les données enregistrées !
