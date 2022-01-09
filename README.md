@@ -17,3 +17,6 @@ L'application se veut personnalisable en termes de couleurs :
  - Textes
 
 J'utilise **Sqflite**, mes connaissances en base de données et en SQL pour stocker les données enregistrées !
+
+# Auteur
+ - Romann Cornet
