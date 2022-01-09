@@ -6,6 +6,7 @@ Cette application est mon premier projet Flutter !
 
 # Aperçu du projet
 
+![](Capture.jpg)
 
 Elle a pour but de stocker localement nos projets personnels ou professionnels :
  - date
